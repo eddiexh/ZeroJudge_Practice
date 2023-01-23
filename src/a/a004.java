@@ -14,6 +14,7 @@ public class a004 {
             }else{
                 System.out.println("平年");
             }
+
         }
     }
 }
